@@ -7,7 +7,7 @@ using Restriction = System.Collections.Generic.Dictionary<UltraDES.AbstractEvent
 using Update = System.Func<System.Collections.Generic.Dictionary<UltraDES.AbstractEvent, float>, UltraDES.AbstractEvent, System.Collections.Generic.Dictionary<UltraDES.AbstractEvent, float>>;
 using DFA = UltraDES.DeterministicFiniteAutomaton;
 
-namespace ProgramaDaniel
+namespace Programa
 {
     internal class Program
     {
