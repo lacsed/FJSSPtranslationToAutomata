@@ -1,7 +1,7 @@
 ﻿using System;
 using UltraDES;
 
-namespace ProgramaDaniel
+namespace Programa
 {
     [Serializable]
     class ExpandedState:State
