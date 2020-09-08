@@ -3,7 +3,7 @@ using System.Linq;
 using System.Collections.Generic;
 using UltraDES;
 
-namespace ProgramaDaniel
+namespace Programa
 {
     interface ISchedulingProblem
     {
